@@ -15,11 +15,10 @@
 </p>
 
 <br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=ItsPyDevs&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true" />
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsPyDevs&layout=compact"></img>
 <div align="center">
   <h2 align="center">Contributions</h2>
   <img src="https://raw.githubusercontent.com/mov-ebx/mov-ebx/snake/github-contribution-grid-snake-dark.svg"/>
