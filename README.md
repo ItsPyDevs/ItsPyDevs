@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">Je suis ItsPyDevs</h1>
+<h1 align="center">ItsPyDevs</h1>
 <a href="https://github.com/imvast"></a>
 
 <p align="center">
