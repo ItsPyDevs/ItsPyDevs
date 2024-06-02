@@ -8,10 +8,11 @@
   <img height="25" src="https://img.shields.io/github/followers/ItsPyDevs?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/ItsPyDevs?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p>
-<h3 align="center">Langages Connu:</h5>
+<h3 align="center">I code in:</h5>
 <p align="center">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
 </p>
 
 <br>
