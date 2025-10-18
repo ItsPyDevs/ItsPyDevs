@@ -54,13 +54,6 @@ I enjoy dark interfaces, well-organized systems, and the feeling of a perfectly 
 
 ---
 
-### 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ItsPyDevs/ItsPyDevs/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contributions"/>
-</p>
-
----
 
 ### 💬 Citation
 
